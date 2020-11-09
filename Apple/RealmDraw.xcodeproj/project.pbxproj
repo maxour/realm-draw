@@ -225,6 +225,7 @@
 				TargetAttributes = {
 					2290FF591E2FD7230039DACF = {
 						CreatedOnToolsVersion = 8.2;
+						DevelopmentTeam = 84AB62SK8J;
 						ProvisioningStyle = Automatic;
 					};
 					22BB76131E8C7B0B00317E4B = {
@@ -240,6 +241,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -520,7 +522,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 84AB62SK8J;
 				INFOPLIST_FILE = "$(SRCROOT)/RealmDraw iOS/Draw-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = io.realm.RealmDraw;
@@ -534,7 +536,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 84AB62SK8J;
 				INFOPLIST_FILE = "$(SRCROOT)/RealmDraw iOS/Draw-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = io.realm.RealmDraw;
